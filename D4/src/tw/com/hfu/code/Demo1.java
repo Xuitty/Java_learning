@@ -14,7 +14,7 @@ public class Demo1 {
 		// TODO Auto-generated method stub
 		System.out.println('X');
 		System.out.println('ㄨ');  //JAVA的CHAR可以支持多語，所以才是 2 Bytes
-		char x[]= {80,81,82,83,84};
+		char x[]= {80,81,82,83,8};
 		System.out.println(x[0]);
 		System.out.println(x[1]);
 		System.out.println(x[2]);
