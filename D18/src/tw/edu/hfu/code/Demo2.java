@@ -25,7 +25,7 @@ public class Demo2 {
 		Comparator<Integer> com2=(x,y)->{
 			return x*y;
 		};
-		System.out.println(com2.compare(9, 2));
+		System.out.println(com2.compare(9, 3));
 		
 	}
 	
